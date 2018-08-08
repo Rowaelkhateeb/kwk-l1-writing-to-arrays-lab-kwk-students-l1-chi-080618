@@ -17,4 +17,4 @@ def add_colors
   RAINBOW_COLORS.push("green")
   RAINBOW_COLORS.push("blue")
 end
-puts RAINBOW_COLORS
+return RAINBOW_COLORS
