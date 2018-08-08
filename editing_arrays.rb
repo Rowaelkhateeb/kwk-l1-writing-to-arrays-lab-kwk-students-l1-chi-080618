@@ -4,7 +4,7 @@ RAINBOW_COLORS = [
   "light_cyan"]
 
   
-#def change_RAINBOW_COLORS
+def change_RAINBOW_COLORS
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
   RAINBOW_COLORS[0] = "red"
   RAINBOW_COLORS[1] = "light_red"
