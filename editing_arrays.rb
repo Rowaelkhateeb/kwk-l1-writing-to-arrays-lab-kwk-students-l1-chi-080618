@@ -9,7 +9,7 @@ def change_RAINBOW_COLORS
   RAINBOW_COLORS[0] = "red"
   RAINBOW_COLORS[1] = "light_red"
   RAINBOW_COLORS[2] = "light_yellow"
-# end
+end
 #puts RAINBOW_COLORS
 
 # def add_colors
